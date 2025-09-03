@@ -1,0 +1,108 @@
+{
+  "id": "a083e0d7-acb3-4f59-9094-92a828e96030",
+  "name": "@indra.ai/deva.wall",
+  "version": "0.0.0",
+  "author": "Quinn A Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Treasury Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.treasury.git"
+  },
+  "keywords": [
+    "Treasury",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.treasury/issues"
+  },
+  "homepage": "https://deva.space/devas/treasury",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.50"
+  },
+  "data": {
+    "agent": {
+      "id": "e0173d62-4f3e-4e87-b62f-66d758365f6b",
+      "key": "wall",
+      "prompt": {
+        "emoji": "🏦",
+        "text": "treasury",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "Treasury Deva",
+        "hashtag": "#Treasury",
+        "title": "Treasury Deva",
+        "subtitle": "Treasury Deva for the VectorGuardTreasury.",
+        "describe": "",
+        "post": "Treasury.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,TreasuryDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A Cyber Security Treasury.",
+        "system": "Deva.world.treasury",
+        "layout": "default",
+        "emoji": "/assets/devas/treasury/emoji.png",
+        "avatar": "/assets/devas/treasury/avatar.png",
+        "image": "/assets/devas/treasury/image.png",
+        "background": "/assets/devas/treasury/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "caseid": "none",
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
+        "modified": "Tuesday, September 2, 2025 - 7:05:05 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Treasury is creating a uid",
+        "status": "Treasury is viewing the status",
+        "help": "Treasury is viewing the help",
+        "artist": "Treasury creating",
+        "live": "Treasury livechat",
+        "ask": "Treasury asking",
+        "reply": "Treasury reply",
+        "comment": "Treasury comment"
+      }
+    }
+  }
+}
