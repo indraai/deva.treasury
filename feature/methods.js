@@ -1,11 +1,11 @@
 export default {
 	/**************
-	method: wall
+	method: treasury
 	params: packet
 	describe: The global wall feature that installs with every agent
 	***************/
-	async wall(packet) {
-		const wall = await this.methods.sign('wall', 'default', packet);
-		return wall;
+	async treasury(packet) {
+		const treasury = await this.methods.sign('treasury', 'default', packet);
+		return treasury;
 	},
 };

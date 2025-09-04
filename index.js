@@ -43,7 +43,84 @@ const TREASURY = new Deva({
   },
   modules: {},
   devas: {},
-  func: {},
+  func: {
+    //! calculate interest payment function
+    CUMIPMT(rate, periods, value, start, end, type) {
+      // migrated from the legacy CUMIMPT algorithm
+      rate = rate;
+      periods = periods;
+    
+      // Return error if either rate, periods, or value are lower than or equal to zero
+      if (rate <= 0 || periods <= 0 || value <= 0) return '#NUM!';
+    
+      // Return error if start < 1, end < 1, or start > end
+      if (start < 1 || end < 1 || start > end) return '#NUM!';
+    
+      // Return error if type is neither 0 nor 1
+      if (type !== 0 && type !== 1) return '#NUM!';
+    
+      // Compute cumulative interest
+      const payment = this.func.PMT(rate, periods, value, 0, type);
+      let interest = 0;
+
+      if(start === 1) {
+        if(type === 0) {
+          interest = -value;
+          start++;
+        }
+      }
+      for (var i = start; i <= end; i++) {
+        if (type === 1) {
+          interest += this.func.FV(rate, i - 2, payment, value, 1 ) - payment;
+        } else {
+          interest += this.func.FV(rate, i - 1, payment, value, 0 );
+        }
+      }
+      interest *= rate;
+      return interest;
+    },
+  
+    FV(rate, periods, payment, value, type) {
+      // Credits: algorithm inspired by Apache OpenOffice
+          // Initialize type
+      type = (typeof type === 'undefined') ? 0 : type;
+        
+      // Return future value
+      let result;
+      if (rate === 0) {
+        result = value + payment * periods;
+      } else {
+        var term = Math.pow(1 + rate, periods);
+        if (type === 1) {
+          result = value * term + payment * (1 + rate) * (term - 1.0) / rate;
+        } else {
+          result = value * term + payment * (term - 1) / rate;
+        }
+      }
+      return -result;
+    },
+      
+    PMT(rate, periods, present, future, type) {
+      // Credits: algorithm inspired by Apache OpenOffice
+    
+      // Initialize type
+      type = (typeof type === 'undefined') ? 0 : type;
+    
+      // Return payment
+      let result;
+      if (rate === 0) {
+        result = (present + future) / periods;
+      } else {
+        const term = Math.pow(1 + rate, periods);
+        if (type === 1) {
+          result = (future * rate / (term - 1) + present * rate / (1 - 1 / term)) / (1 + rate);
+        } else {
+          result = future * rate / (term - 1) + present * rate / (1 - 1 / term);
+        }
+      }
+      return -result;
+    }    
+  },
   methods: {},
   onReady(data, resolve) {
     this.prompt(this.vars.messages.ready);    
