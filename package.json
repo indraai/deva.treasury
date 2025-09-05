@@ -28,7 +28,7 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.54"
+    "@indra.ai/deva": "^1.5.55"
   },
   "data": {
     "agent": {
@@ -36,7 +36,7 @@
       "key": "wall",
       "prompt": {
         "emoji": "🏦",
-        "text": "treasury",
+        "text": "Treasury",
         "colors": {
           "label": {
             "R": 0,
