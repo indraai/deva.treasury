@@ -1,7 +1,7 @@
 {
   "id": "a083e0d7-acb3-4f59-9094-92a828e96030",
   "name": "@indra.ai/deva.treasury",
-  "version": "0.0.5",
+  "version": "0.0.3",
   "author": "Quinn A Michaels",
   "license": "MIT",
   "copyright": "2025",
@@ -28,7 +28,7 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.53"
+    "@indra.ai/deva": "^1.5.54"
   },
   "data": {
     "agent": {
@@ -611,7 +611,8 @@
         "Let the king make the common inhabitants of his realm who live by traffic, pay annually some trifle, which is called a tax.",
         "A blind man, an idiot, (a cripple) who moves with the help of a board, a man full seventy years old, and he who confers benefits on Srotriyas, shall not be compelled by any (king) to pay a tax.",
         "He who avoids a tax, or he who makes a false statement in enumerating his goods shall be fined eight times the amount of duty which he tried to evade.",
-        "They declare that the wise have prescribed these fines for perjury, in order to prevent a failure of justice, and in order to restrain injustice."
+        "They declare that the wise have prescribed these fines for perjury, in order to prevent a failure of justice, and in order to restrain injustice.",
+        "He who through arrogance makes false statements regarding the learning of a caste-fellow, his country, his caste (gati), or the rites by which his body was sanctified, shall be compelled to pay a fine of two hundred panas."
       ]
     },
     "vars": {
