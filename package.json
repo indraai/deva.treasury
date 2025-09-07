@@ -1,10 +1,24 @@
 {
-  "id": "a083e0d7-acb3-4f59-9094-92a828e96030",
+  "id": "27146286300077120556",
   "name": "@indra.ai/deva.treasury",
   "version": "0.0.7",
-  "author": "Quinn A Michaels",
-  "license": "MIT",
-  "copyright": "2025",
+  "license": "VLA:67886722816275411462 LICENSE.md",
+  "author": {
+    "name": "Quinn A Michaels",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "(c)Copyright 2025, Quinn A Michaels; All Rights Reserved.",
   "description": "The Treasury Deva.",
   "main": "index.js",
   "type": "module",
@@ -32,8 +46,8 @@
   },
   "data": {
     "agent": {
-      "id": "e0173d62-4f3e-4e87-b62f-66d758365f6b",
-      "key": "wall",
+      "id": "35484284053076123859",
+      "key": "treasury",
       "prompt": {
         "emoji": "🏦",
         "text": "Treasury",
