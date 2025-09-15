@@ -1,8 +1,22 @@
 {
-  "id": "27146286300077120556",
+  "id": "54470249720814892780",
   "name": "@indra.ai/deva.treasury",
   "version": "0.0.43",
-  "license": "VLA:67886722816275411462 LICENSE.md",
+  "license": "VLA:54470249720814892780 LICENSE.md",
+  "VLA": {
+    "uid": "54470249720814892780",
+    "time": 1757901205550,
+    "date": "Sunday, September 14, 2025 - 6:53:25 PM",
+    "client": "DrDadce1mxTgdYp4OqRcBnOEBgiwGBgxce/oH4IyHFc=",
+    "agent": "+wI68o4AXLajDqlUamAx7MXm0euo7hwfgSuV3FKTbJY=",
+    "pkg": "A3axwOo9bPsQsRdrh0SPVzs1CSaHsnAFmWuRwX6pp38=",
+    "machine": "RY2pLA8k8LYqtfYkm1pgx1elwhoJdFVVqE+mkHR7990=",
+    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the, Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
+    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "LuF/pBwHlydd6QCFfxnv3Q==",
+    "sha256": "W52uhgZg+N49ly7PHafqbsbP6plm4SWqmqKvOAu6nho=",
+    "sha512": "9rb/O+CVRaYNvQM2LMdfhH8lcUqxhTXR8eMYlw2JZslCHK+TkgC853ym3TZ2xregts8a92HoFQO0B8NLtg6vsA=="
+  },
   "author": {
     "name": "Quinn A Michaels",
     "company": "Inside The Net, Inc.",
@@ -125,7 +139,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "🪙 Ready for Lawful Taxation."
+        "ready": "🪙 Ready for Lawful Taxation"
       },
       "ask": {
         "history": []

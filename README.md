@@ -2,4 +2,6 @@
 The Treasury Deva
 
 
-(c) Copyright Quinn A Michaels. All rights reserved.
+©2025 Quinn A Michaels; All rights reserved. 
+Legal Signature Required For Lawful Use.
+Distributed under VLA:54470249720814892780 LICENSE.md
