@@ -1,21 +1,21 @@
 {
-  "id": "54470249720814892780",
+  "id": "14884873469176472158",
   "name": "@indra.ai/deva.treasury",
   "version": "0.0.60",
-  "license": "VLA:54470249720814892780 LICENSE.md",
+  "license": "VLA:14884873469176472158 LICENSE.md",
   "VLA": {
-    "uid": "54470249720814892780",
-    "time": 1757901205550,
-    "date": "Sunday, September 14, 2025 - 6:53:25 PM",
-    "client": "DrDadce1mxTgdYp4OqRcBnOEBgiwGBgxce/oH4IyHFc=",
+    "uid": "14884873469176472158",
+    "time": 1758420690588,
+    "date": "Saturday, September 20, 2025 - 7:11:30 PM",
+    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
     "agent": "+wI68o4AXLajDqlUamAx7MXm0euo7hwfgSuV3FKTbJY=",
-    "pkg": "A3axwOo9bPsQsRdrh0SPVzs1CSaHsnAFmWuRwX6pp38=",
-    "machine": "RY2pLA8k8LYqtfYkm1pgx1elwhoJdFVVqE+mkHR7990=",
-    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the, Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
-    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "LuF/pBwHlydd6QCFfxnv3Q==",
-    "sha256": "W52uhgZg+N49ly7PHafqbsbP6plm4SWqmqKvOAu6nho=",
-    "sha512": "9rb/O+CVRaYNvQM2LMdfhH8lcUqxhTXR8eMYlw2JZslCHK+TkgC853ym3TZ2xregts8a92HoFQO0B8NLtg6vsA=="
+    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
+    "machine": "l2fy2B10GPlq9hbW1ftAKWcNaK+pdVweSUNkTyJ9LS0=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "LHoqrKd2k+qeC24NHwpYxg==",
+    "sha256": "fsjsBawOWAAOvf9LHVgwb1LD64JrSkC3KltWPApdxpk=",
+    "sha512": "joqYaommN1c3X6/ewdEfdC9WrZm0xh0IrhpjJPFkS7cYAhhbl6W/siSC4EtyywNsaqZXqxeCuNjm2+xlU2pdGw=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +33,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "(c)Copyright 2025, Quinn A Michaels; All Rights Reserved.",
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Treasury Deva.",
   "main": "index.js",
   "type": "module",
@@ -65,7 +65,7 @@
       "key": "treasury",
       "prompt": {
         "emoji": "🏦",
-        "text": "Treasury",
+        "text": "#treasury",
         "colors": {
           "label": {
             "R": 0,
@@ -100,7 +100,7 @@
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
         "caseid": "none",
-        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "money": [],
         "checks": [],
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM"
@@ -139,7 +139,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "Ready for Lawful Taxation"
+        "ready": "✅ Treasury Deva Ready"
       },
       "ask": {
         "history": []
