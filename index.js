@@ -38,14 +38,7 @@ const TREASURY = new Deva({
     parse(input) {return input.trim();},
     process(input) {return input.trim();},
   },
-  listeners: {
-    'devacore:question'(packet) {
-      const echo = this.methods.echo('treasury', 'q', packet);
-    },
-    'devacore:answer'(packet) {
-      const echo = this.methods.echo('treasury', 'a', packet);
-    }    
-  },
+  listeners: {},
   modules: {},
   devas: {},
   func: {
