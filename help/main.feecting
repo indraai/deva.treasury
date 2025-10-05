@@ -10,6 +10,9 @@
 talk: #justice justice
 
 ::begin:hidden
+#color = {{profile.color}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.bg}}
 copyright: (c)2025 Quinn Michaels
 ::end:hidden
 ::END:MAIN
