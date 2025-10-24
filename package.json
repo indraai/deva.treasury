@@ -57,7 +57,7 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.16.2"
+    "@indra.ai/deva": "^1.17.0"
   },
   "data": {
     "agent": {
@@ -93,16 +93,15 @@
         "style": "A Cyber Security Treasury.",
         "system": "Deva.world.treasury",
         "layout": "default",
-        "emoji": "/assets/devas/treasury/emoji.png",
-        "avatar": "/assets/devas/treasury/avatar.png",
-        "image": "/assets/devas/treasury/image.png",
+        "emoji": "/devas/treasury/emoji.png",
+        "avatar": "/devas/treasury/avatar.png",
+        "image": "/devas/treasury/image.png",
         "background": "/assets/devas/treasury/background.png",
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
         "caseid": "none",
+        "uid_warning": "A Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour. A Brahmana shall pay it by installments.",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "money": [],
-        "checks": [],
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM"
       },
       "laws": [
