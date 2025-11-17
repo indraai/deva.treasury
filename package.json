@@ -57,7 +57,7 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.22.1"
+    "@indra.ai/deva": "^1.23.0"
   },
   "data": {
     "agent": {
@@ -100,7 +100,7 @@
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
         "caseid": "none",
-        "uid_warning": "A Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour. A Brahmana shall pay it by installments.",
+        "warning": "⚠️ A Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour. A Brahmana shall pay it by installments. Let Treasury Deva daily look after the completion of lawful undertakings, the people, the military with the collection of taxes, revenues, disbursements with the protection of the Mines and Treasury. On those who rob the Treasury and those who persevere in opposing laws, Treasury Deva shall inflict various kinds of fines and authority reports, likewise on those who conspire with enemies.",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM"
       },
