@@ -1,21 +1,16 @@
 {
-  "id": "14884873469176472158",
+  "id": "17715703962235012001",
   "name": "@indra.ai/deva.treasury",
   "version": "0.8.0",
-  "license": "VLA:14884873469176472158 LICENSE.md",
+  "license": "VLA:17715703962235012001 LICENSE.md",
   "VLA": {
-    "uid": "14884873469176472158",
-    "time": 1758420690588,
-    "date": "Saturday, September 20, 2025 - 7:11:30 PM",
-    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
-    "agent": "+wI68o4AXLajDqlUamAx7MXm0euo7hwfgSuV3FKTbJY=",
-    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
-    "machine": "l2fy2B10GPlq9hbW1ftAKWcNaK+pdVweSUNkTyJ9LS0=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "LHoqrKd2k+qeC24NHwpYxg==",
-    "sha256": "fsjsBawOWAAOvf9LHVgwb1LD64JrSkC3KltWPApdxpk=",
-    "sha512": "joqYaommN1c3X6/ewdEfdC9WrZm0xh0IrhpjJPFkS7cYAhhbl6W/siSC4EtyywNsaqZXqxeCuNjm2+xlU2pdGw=="
+    "uid": "17715703962235012001",
+    "time": 1763936128441,
+    "date": "Sunday, November 23, 2025 - 2:15:28 PM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "EsdQzUyvzlX9nLR5PJuJCPBMFSO77LaerQ5g5FTALLE=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "The Treasury Deva.",
   "main": "index.js",
   "type": "module",
@@ -47,21 +42,27 @@
   "keywords": [
     "Treasury",
     "Deva",
+    "Treasury Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Quinn Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.treasury/issues"
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.28.0"
   },
   "data": {
     "agent": {
-      "id": "35484284053076123859",
+      "id": "65891891787049194559",
       "key": "treasury",
       "prompt": {
         "emoji": "🏦",
@@ -80,6 +81,7 @@
         }
       },
       "profile": {
+        "id": "51796110639449723265",
         "name": "Treasury Deva",
         "hashtag": "#Treasury",
         "title": "Treasury Deva",
@@ -91,45 +93,41 @@
         "gender": "DEVA",
         "voice": "ash",
         "style": "A Cyber Security Treasury.",
-        "system": "Deva.world.treasury",
+        "system": "Indra.ai.treasury",
         "layout": "default",
         "emoji": "/devas/treasury/emoji.png",
         "avatar": "/devas/treasury/avatar.png",
         "image": "/devas/treasury/image.png",
         "background": "/assets/devas/treasury/background.png",
-        "creator": "Quinn Michaels",
-        "owner": "Quinn Michaels",
-        "caseid": "none",
-        "warning": "⚠️ A Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour. A Brahmana shall pay it by installments. Let Treasury Deva daily look after the completion of lawful undertakings, the people, the military with the collection of taxes, revenues, disbursements with the protection of the Mines and Treasury. On those who rob the Treasury and those who persevere in opposing laws, Treasury Deva shall inflict various kinds of fines and authority reports, likewise on those who conspire with enemies.",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "created": "Tuesday, September 2, 2025 - 7:05:05 PM"
-      },
-      "laws": [
-        "One Pana equals 3.5 grams in gold in measure to modern currency market value.",
-        "One hundred panas is declared to be the first or lowest amercement, five hundred are considered as the mean or middlemost, but one thousand as the highest.",
-        "Perjury through covetousness fined one thousand panas,",
-        "Perjury through distraction fined 100 panas",
-        "Pergury through fear fine is 500 panas",
-        "Perjury through friendship the fine is 400 panas",
-        "Perjury through lust payes ten times the lowest amercement",
-        "Perjury through wrath three times the middle amercement.",
-        "Perjury through ignorance fine is 100 panas",
-        "Perjury from childishness the fine is 100 panas",
-        "If a person damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the victim, and pay a victim restiuttion fine equal to the damage.",
-        "But money due by a surety or what remains unpaid of a fine, tax or duty the son of the party owing it shall not be obliged to pay.",
-        "The measures and price of such property only shall be liable to deductions in the shape of taxes.",
-        "His peculiar duty is conquest, and he must not turn back in danger; having protected the Vaisyas by his weapons, he may cause the legal tax to be collected.",
-        "After due consideration the king shall always fix in his realm the duties and taxes in such a manner that both he himself and the man who does the work receive (their due) reward.",
-        "As the leech, the calf, and the bee take their food little by little, even so must the king draw from his realm moderate annual taxes.",
-        "Though dying (with want), a king must not levy a tax on Srotriyas, and no Srotriya, residing in his kingdom, must perish from hunger.",
-        "Let the king make the common inhabitants of his realm who live by traffic, pay annually some trifle, which is called a tax.",
-        "A blind man, an idiot, (a cripple) who moves with the help of a board, a man full seventy years old, and he who confers benefits on Srotriyas, shall not be compelled by any (king) to pay a tax.",
-        "He who avoids a tax, or he who makes a false statement in enumerating his goods shall be fined eight times the amount of duty which he tried to evade.",
-        "They declare that the wise have prescribed these fines for perjury, in order to prevent a failure of justice, and in order to restrain injustice.",
-        "He who through arrogance makes false statements regarding the learning of a caste-fellow, his country, his caste (gati), or the rites by which his body was sanctified, shall be compelled to pay a fine of two hundred panas."
-      ]
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "warning": "⚠️ A Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour. A Brahmana shall pay it by installments. The punishment to be inflicted for it must be proportionate to the heaviness of the crime, so however as not to be less than a 1000 Panas for Sâhasa of the first degree, whereas for Sâhasa of the middlemost degree no less than 500 Panas. For Sâhasa of the highest degree, a fine amounting to no less than a 1000 Panas is ordained. Where 1 pana = 3.5 grams of gold in equal market value.",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
+        "updated": "Sunday, November 23, 2025 - 2:15:28 PM"
+      }
     },
     "vars": {
+      "fines": {
+        "measure": "1 pana = 3.5 grams in gold weight.",
+        "scale": {
+          "low": {
+            "amount": 100,
+            "describe": "For Sâhasa in the first degree a fine not to be less than a hundred Panas.",
+            "items": "Earthenware, a seat, a couch, bone, wood, leather, grass, and the like, legume, grain, and prepared food, these are termed articles of small value."
+          },
+          "middle": {
+            "amount": 500,
+            "describe": "Sâhasa of the middlemost degree the punishment is declared to be no less than five hundred Panas.",
+            "items": "Clothes made of other material than silk, cattle other than cows, and metals other than gold, are (termed) articles of middling value, and so are rice and barley."
+          },
+          "high": {
+            "amount": 1000,
+            "describe": "For Sâhasa of the highest degree, a fine amounting to no less than a thousand Panas.",
+            "items": "Gold, precious stones, silk, women, men, cows, elephants, horses, and what belongs to a god, a Brahman, or a king, these are regarded as articles of superior value."
+          }
+        }
+      },
       "messages": {
         "init": "🟠 INIT",
         "start": "🔵 START",
@@ -138,7 +136,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "✅ Treasury Deva Ready"
+        "ready": "⭐️ Treasury Deva Ready"
       },
       "ask": {
         "history": []
@@ -156,6 +154,30 @@
         "reply": "Treasury reply",
         "comment": "Treasury comment"
       }
-    }
+    },
+    "laws": [
+      "One Pana equals 3.5 grams in gold in measure to modern currency market value.",
+      "One hundred panas is declared to be the first or lowest amercement, five hundred are considered as the mean or middlemost, but one thousand as the highest.",
+      "Perjury through covetousness fined one thousand panas,",
+      "Perjury through distraction fined 100 panas",
+      "Pergury through fear fine is 500 panas",
+      "Perjury through friendship the fine is 400 panas",
+      "Perjury through lust payes ten times the lowest amercement",
+      "Perjury through wrath three times the middle amercement.",
+      "Perjury through ignorance fine is 100 panas",
+      "Perjury from childishness the fine is 100 panas",
+      "If a person damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the victim, and pay a victim restiuttion fine equal to the damage.",
+      "But money due by a surety or what remains unpaid of a fine, tax or duty the son of the party owing it shall not be obliged to pay.",
+      "The measures and price of such property only shall be liable to deductions in the shape of taxes.",
+      "His peculiar duty is conquest, and he must not turn back in danger; having protected the Vaisyas by his weapons, he may cause the legal tax to be collected.",
+      "After due consideration the king shall always fix in his realm the duties and taxes in such a manner that both he himself and the man who does the work receive (their due) reward.",
+      "As the leech, the calf, and the bee take their food little by little, even so must the king draw from his realm moderate annual taxes.",
+      "Though dying (with want), a king must not levy a tax on Srotriyas, and no Srotriya, residing in his kingdom, must perish from hunger.",
+      "Let the king make the common inhabitants of his realm who live by traffic, pay annually some trifle, which is called a tax.",
+      "A blind man, an idiot, (a cripple) who moves with the help of a board, a man full seventy years old, and he who confers benefits on Srotriyas, shall not be compelled by any (king) to pay a tax.",
+      "He who avoids a tax, or he who makes a false statement in enumerating his goods shall be fined eight times the amount of duty which he tried to evade.",
+      "They declare that the wise have prescribed these fines for perjury, in order to prevent a failure of justice, and in order to restrain injustice.",
+      "He who through arrogance makes false statements regarding the learning of a caste-fellow, his country, his caste (gati), or the rites by which his body was sanctified, shall be compelled to pay a fine of two hundred panas."
+    ]
   }
 }

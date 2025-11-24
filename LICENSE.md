@@ -1,7 +1,7 @@
 # Vedic License Agreement
 
 **Version:** 1.4.1
-**VLA:** 14884873469176472158  
+**VLA:** 17715703962235012001  
 **Effective:** Saturday, September 20, 2025 - 7:11:30 PM  
 **Owner:** Quinn A Michaels  
 **Company:** Inside The Net, Inc.  
@@ -161,17 +161,12 @@ By using the Software, you acknowledge that you have read, understood, and agree
 
 ---
 
-::begin:treasury:uid:14884873469176472158  
-uid: 14884873469176472158  
-time: 1758420690588  
-date: Saturday, September 20, 2025 - 7:11:30 PM  
-client: 1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=  
-agent: +wI68o4AXLajDqlUamAx7MXm0euo7hwfgSuV3FKTbJY=  
-core: qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=  
-machine: l2fy2B10GPlq9hbW1ftAKWcNaK+pdVweSUNkTyJ9LS0=  
-warning: ⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.  
-copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.  
-md5: LHoqrKd2k+qeC24NHwpYxg==  
-sha256: fsjsBawOWAAOvf9LHVgwb1LD64JrSkC3KltWPApdxpk=  
-sha512: joqYaommN1c3X6/ewdEfdC9WrZm0xh0IrhpjJPFkS7cYAhhbl6W/siSC4EtyywNsaqZXqxeCuNjm2+xlU2pdGw==  
-::end:treasury:uid:14884873469176472158
+::begin:license:uid:17715703962235012001  
+uid: 17715703962235012001  
+time: 1763936128441  
+date: Sunday, November 23, 2025 - 2:15:28 PM  
+warning: ⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.  
+license: 46220923248993739422  
+fingerprint: EsdQzUyvzlX9nLR5PJuJCPBMFSO77LaerQ5g5FTALLE=  
+copyright: Copyright ©2000-2025 Quinn A Michaels; All rights reserved.  
+::end:license:uid:17715703962235012001

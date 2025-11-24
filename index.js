@@ -1,7 +1,8 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:14884873469176472158 LICENSE.md
+// Sunday, November 23, 2025 - 2:15:28 PM
 
 // Treasury Deva
 
@@ -119,7 +120,47 @@ const TREASURY = new Deva({
       return -result;
     }    
   },
-  methods: {},
+  methods: {
+    fine(packet) {
+      const {id, q} = packet;
+      const {text, meta} = q;
+      const {key, method, params} = meta;
+      const amercement = params[1];
+      
+      this.context(method, id.uid);
+      this.action('method', `${method}:${id.uid}`);
+      this.state('pending', `${method}:${id.uid}`);
+
+      const {fines} = this.vars;
+      const fine = fines.scale[amercement] || fines.scale.high;
+      
+      console.log('fine', fines, fine);
+      
+      return new Promise((resolve, reject) => {
+        let res = false // return object
+        this.state('try', `${method}:${id.uid}`);
+        try {
+          res = {
+            text: "test fine text",
+            html: "text.fine.",
+            data: false,
+          }
+        } 
+        catch (err) {
+          this.action('reject', `${method}:${id.uid}`);
+          this.state('catch', `${method}:${id.uid}`);
+          this.intent('bad', `${method}:${id.uid}`);
+          return this.err(err, packet, reject);
+        }
+        finally {
+          this.action('resolve', `${method}:${id.uid}`);
+          this.state('finally', `${method}:${id.uid}`);
+          this.intent('good', `${method}:${id.uid}`);
+          return resolve(res);
+        }
+      });
+    },
+  },
   onInit(data, resolve) {
     const {personal} = this.license(); // get the license config
     const agent_license = this.info().VLA; // get agent license

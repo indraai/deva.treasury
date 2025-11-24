@@ -1,7 +1,8 @@
 "use strict";
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:14884873469176472158 LICENSE.md
+// Distributed under VLA:17715703962235012001 LICENSE.md
+// Sunday, November 23, 2025 - 2:15:28 PM
 
 export default {
 	/**************
