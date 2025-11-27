@@ -58,7 +58,7 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.20"
+    "@indra.ai/deva": "^1.29.21"
   },
   "data": {
     "agent": {
