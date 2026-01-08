@@ -1,10 +1,9 @@
 "use strict";
-// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:14884873469176472158 LICENSE.md
-// Sunday, November 23, 2025 - 2:15:28 PM
-
 // Treasury Deva
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:18479325762624811149 LICENSE.md
+// Thursday, January 8, 2026 - 11:00:34 AM
 
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
@@ -30,7 +29,7 @@ const info = {
   copyright: pkg.copyright
 };
 
-const TREASURY = new Deva({
+const TreasuryDeva = new Deva({
   info,
   agent,
   vars,
@@ -179,5 +178,5 @@ const TREASURY = new Deva({
     return reject(err);
   },
 });
-export default TREASURY
+export default TreasuryDeva
 

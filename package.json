@@ -1,16 +1,16 @@
 {
-  "id": "17715703962235012001",
+  "id": "18479325762624811149",
   "name": "@indra.ai/deva.treasury",
   "version": "0.10.0",
-  "license": "VLA:17715703962235012001 LICENSE.md",
+  "license": "VLA:18479325762624811149 LICENSE.md",
   "VLA": {
-    "uid": "17715703962235012001",
-    "time": 1763936128441,
-    "date": "Sunday, November 23, 2025 - 2:15:28 PM",
-    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "license": "46220923248993739422",
-    "fingerprint": "EsdQzUyvzlX9nLR5PJuJCPBMFSO77LaerQ5g5FTALLE=",
-    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
+    "uid": "18479325762624811149",
+    "time": 1767898834011,
+    "date": "Thursday, January 8, 2026 - 11:00:34 AM",
+    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+    "license": "44486733861528360966",
+    "fingerprint": "llEcQItnvriTEQUln80jqNBuaJPy9tQwgaLM7mcJr/c=",
+    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -28,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "description": "The Treasury Deva.",
   "main": "index.js",
   "type": "module",
@@ -88,7 +88,7 @@
         "subtitle": "Treasury Deva for the VectorGuardTreasury.",
         "describe": "",
         "post": "Treasury.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,TreasuryDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #TreasuryDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "voice": "ash",
@@ -98,13 +98,13 @@
         "emoji": "/devas/treasury/emoji.png",
         "avatar": "/devas/treasury/avatar.png",
         "image": "/devas/treasury/image.png",
-        "background": "/assets/devas/treasury/background.png",
+        "background": "/devas/treasury/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "warning": "⚠️ A Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour. A Brahmana shall pay it by installments. The punishment to be inflicted for it must be proportionate to the heaviness of the crime, so however as not to be less than a 1000 Panas for Sâhasa of the first degree, whereas for Sâhasa of the middlemost degree no less than 500 Panas. For Sâhasa of the highest degree, a fine amounting to no less than a 1000 Panas is ordained. Where 1 pana = 3.5 grams of gold in equal market value.",
-        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "warning": "{{propt.emoji}} {{profile.name}} declares a #Kshatriya, a #Vaisya, and a #Sudra who are unable to pay a fine, shall discharge the debt by labour. A #Brahmana shall pay it by #Installments. The #Punishment to be inflicted for it must be #Proportionate to the #Heaviness of the #Crime, so however as not to be less than a 100 Panas for Sâhasa of the #FirstDegree. For Sâhasa of the #Middlemostdegree no less than 500 Panas. For Sâhasa of the #HighestDegree a fine amounting to no less than a 1000 Panas is ordained. Where 1 pana = 3.5 grams of gold in equal market value. {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
-        "updated": "Sunday, November 23, 2025 - 2:15:28 PM"
+        "updated": "Thursday, January 8, 2026 - 11:00:34 AM"
       }
     },
     "vars": {
@@ -136,7 +136,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ Treasury Deva Ready"
+        "ready": "🏦 Treasury Deva Ready"
       },
       "ask": {
         "history": []
