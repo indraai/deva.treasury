@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -47,8 +48,8 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
-    "Quinn A Michaels",
     "Quinn Michaels",
+    "Quinn A Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -58,7 +59,7 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0"
+    "@indra.ai/deva": "^1.33.0"
   },
   "data": {
     "agent": {
@@ -88,7 +89,7 @@
         "subtitle": "Treasury Deva for the VectorGuardTreasury.",
         "describe": "",
         "post": "Treasury.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #TreasuryDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Treasury #TreasuryDeva #TreasuryPRIME",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "voice": "ash",
@@ -100,11 +101,11 @@
         "image": "/devas/treasury/image.png",
         "background": "/devas/treasury/background.png",
         "creator": "Quinn A Michaels",
-        "owner": "Quinn A Michaels",
-        "warning": "{{propt.emoji}} {{profile.name}} declares a #Kshatriya, a #Vaisya, and a #Sudra who are unable to pay a fine, shall discharge the debt by labour. A #Brahmana shall pay it by #Installments. The #Punishment to be inflicted for it must be #Proportionate to the #Heaviness of the #Crime, so however as not to be less than a 100 Panas for Sâhasa of the #FirstDegree. For Sâhasa of the #Middlemostdegree no less than 500 Panas. For Sâhasa of the #HighestDegree a fine amounting to no less than a 1000 Panas is ordained. Where 1 pana = 3.5 grams of gold in equal market value. {{profile.hashtags}}",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "owner": "Quinn A Michaels",        
+        "warning": "{{propt.emoji}} {{profile.name}} declares a #Kshatriya, a #Vaisya, and a #Sudra who are unable to pay a fine, shall discharge the debt by labour. A #Brahmana shall pay it by #Installments. The #Punishment to be inflicted for it must be #Proportionate to the #Heaviness of the #Crime. On those who rob the #Treasury and those who persevere in opposing the rule of law, he shall inflict various kinds of capital punishment. Likewise on those who #Conspire with #Enemies.\ntags: {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
-        "updated": "Thursday, January 8, 2026 - 11:00:34 AM"
+        "updated": "Tuesday, January 27, 2026 - 8:45:49 AM"
       }
     },
     "vars": {
