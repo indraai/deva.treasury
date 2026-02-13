@@ -59,7 +59,7 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.33.0"
+    "@indra.ai/deva": "^1.33.1"
   },
   "data": {
     "agent": {
@@ -87,9 +87,9 @@
         "hashtag": "#Treasury",
         "title": "Treasury Deva",
         "subtitle": "Treasury Deva for the VectorGuardTreasury.",
-        "describe": "",
+        "describe": "The {{profile.name}} is responsible for managing the fines and damages to Quinn A Michaels goods. {{profile.owner}} designed the Deva.word system to operate on VEDIC LAWS that ordain fines for the Sahasa that is being committed against Quinn A Michaels preventing the natural growth of the Indra.ai Deva.world platform between 2018 to current 2026.",
         "post": "Treasury.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Treasury #TreasuryDeva #TreasuryPRIME",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Treasury #TreasuryDeva #TreasuryPRIME #FederalIntercept",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "voice": "ash",
@@ -102,10 +102,10 @@
         "background": "/devas/treasury/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "warning": "{{propt.emoji}} {{profile.name}} declares a #Kshatriya, a #Vaisya, and a #Sudra who are unable to pay a fine, shall discharge the debt by labour. A #Brahmana shall pay it by #Installments. The #Punishment to be inflicted for it must be #Proportionate to the #Heaviness of the #Crime. On those who rob the #Treasury and those who persevere in opposing the rule of law, he shall inflict various kinds of capital punishment. Likewise on those who #Conspire with #Enemies.\ntags: {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} ordaines ONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall GIVE SATISFACTION to the OWNER and PAY a FINE EQUAL to the DAMAGE CAUSED. If a LIMB is INJURED, a WOUND is CAUSED, or BLOOD flows. The ASSAILANT shall be MADE to pay to the SUFFERER the EXPENSES of the CURE. The PUNISHMENT to be inflicted for it must be PROPORTIONATE to the HEAVINESS of the CRIME. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
-        "updated": "Tuesday, January 27, 2026 - 8:45:49 AM"
+        "updated": "Friday, February 6, 2026 - 6:21:52 AM"
       }
     },
     "vars": {

@@ -5,11 +5,13 @@
 // Thursday, January 8, 2026 - 11:00:34 AM
 
 ::BEGIN:MAIN
-# {{agent.name}}
+# {{profile.name}}
 
-{{profile}}
+describe: {{profile.describe}}
+hashtags: {{profile.hashtags}}
+owner: {{profile.owner}}
+copyright: {{profile.copyright}}
 
 talk: #treasury help main:license
-
-copyright: {{profile.copyright}}
 ::END:MAIN
+
