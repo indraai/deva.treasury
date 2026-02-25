@@ -14,6 +14,9 @@ import {dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';    
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+import money from '@indra.ai/deva.money';
+// import money from '/Users/quinnmichaels/Dev/deva.space/devas/deva.money/index.js';
+
 const info = {
   id: pkg.id,
   name: pkg.name,
@@ -40,7 +43,9 @@ const TreasuryDeva = new Deva({
   },
   listeners: {},
   modules: {},
-  devas: {},
+  devas: {
+    money,
+  },
   func: {
     //! calculate interest payment function
     CUMIPMT(rate, periods, value, start, end, type) {

@@ -33,7 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "latest": "npm i @indra.ai/deva@latest --save",
+    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.money@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -59,7 +59,8 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.36.0"
+    "@indra.ai/deva": "^1.36.0",
+    "@indra.ai/deva.money": "^0.8.0"
   },
   "data": {
     "agent": {
@@ -105,7 +106,7 @@
         "warning": "{{prompt.emoji}} {{profile.name}} ordaines ONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall GIVE SATISFACTION to the OWNER and PAY a FINE EQUAL to the DAMAGE CAUSED. If a LIMB is INJURED, a WOUND is CAUSED, or BLOOD flows. The ASSAILANT shall be MADE to pay to the SUFFERER the EXPENSES of the CURE. The PUNISHMENT to be inflicted for it must be PROPORTIONATE to the HEAVINESS of the CRIME. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
-        "updated": "Friday, February 6, 2026 - 6:21:52 AM"
+        "updated": "Tuesday, February 24, 2026 - 8:27:47 PM"
       }
     },
     "vars": {
