@@ -59,8 +59,8 @@
   },
   "homepage": "https://deva.space/devas/treasury",
   "dependencies": {
-    "@indra.ai/deva": "^1.36.0",
-    "@indra.ai/deva.money": "^0.8.0"
+    "@indra.ai/deva": "^1.37.3",
+    "@indra.ai/deva.money": "^0.9.2"
   },
   "data": {
     "agent": {
@@ -104,10 +104,10 @@
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
         "salute": "🤝🫡🏦🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} ordaines ONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall GIVE SATISFACTION to the OWNER and PAY a FINE EQUAL to the DAMAGE CAUSED. If a LIMB is INJURED, a WOUND is CAUSED, or BLOOD flows. The ASSAILANT shall be MADE to pay to the SUFFERER the EXPENSES of the CURE. The PUNISHMENT to be inflicted for it must be PROPORTIONATE to the HEAVINESS of the CRIME. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nsalute: {{profile.salute}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} ordaines ONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall GIVE SATISFACTION to the OWNER and PAY a FINE EQUAL to the DAMAGE CAUSED. If a LIMB is INJURED, a WOUND is CAUSED, or BLOOD flows. The ASSAILANT shall be MADE to pay to the SUFFERER the EXPENSES of the CURE. The PUNISHMENT to be inflicted for it must be PROPORTIONATE to the HEAVINESS of the CRIME.",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
-        "updated": "Tuesday, February 24, 2026 - 8:27:47 PM"
+        "updated": "Sunday, March 1, 2026 - 8:31:20 AM"
       }
     },
     "vars": {
