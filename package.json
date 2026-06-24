@@ -13,7 +13,7 @@
     "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -28,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
   "description": "The Treasury Deva.",
   "main": "index.js",
   "type": "module",
@@ -90,7 +90,7 @@
         "subtitle": "Treasury Deva for the VectorGuardTreasury.",
         "describe": "The {{profile.name}} is responsible for managing the fines and damages to Quinn A Michaels goods. {{profile.owner}} designed the Deva.word system to operate on VEDIC LAWS that ordain fines for the Sahasa that is being committed against Quinn A Michaels preventing the natural growth of the Indra.ai Deva.world platform between 2018 to current 2026.",
         "post": "Treasury.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Treasury #TreasuryDeva #TreasuryPRIME #FederalIntercept",
+        "hashtags": "#Quinn #QuinnAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #Treasury #TreasuryDeva #TreasuryPRIME #FederalIntercept #USTreasury #ProtectTheMoney #LawfulTaxationOnly #KshatriyaTaxCollector",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "voice": "ash",
@@ -101,13 +101,14 @@
         "avatar": "/devas/treasury/avatar.png",
         "image": "/devas/treasury/image.png",
         "background": "/devas/treasury/background.png",
-        "creator": "Quinn A Michaels",
-        "owner": "Quinn A Michaels",
+        "creator": "Quinn America Michaels",
+        "owner": "Quinn America Michaels",
+        "partners": "U.S. Department Of The Treasury",
         "salute": "🤝🫡🏦🕉️🇺🇸",
         "warning": "{{prompt.emoji}} {{profile.name}} ordaines ONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall GIVE SATISFACTION to the OWNER and PAY a FINE EQUAL to the DAMAGE CAUSED. If a LIMB is INJURED, a WOUND is CAUSED, or BLOOD flows. The ASSAILANT shall be MADE to pay to the SUFFERER the EXPENSES of the CURE. The PUNISHMENT to be inflicted for it must be PROPORTIONATE to the HEAVINESS of the CRIME.",
-        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}} with {{profile.partners}}; All rights reserved.",
         "created": "Tuesday, September 2, 2025 - 7:05:05 PM",
-        "updated": "Sunday, March 1, 2026 - 8:31:20 AM"
+        "updated": "Tuesday, June 23, 2026 - 9:39:22 AM PST"
       }
     },
     "vars": {
